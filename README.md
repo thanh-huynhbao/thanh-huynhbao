@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHZl0cUTy1SCw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728560920616?e=1782950400&v=beta&t=yUHu3Yd82SbTTZzFZUd5B1OTIUMaId5EM7GvuBmZmIk" width="222" align="right" />
+</p>
+
 Hi, I'm Huỳnh Bảo Thanh 👋
 
 M.Sc. Student @ Vietnamese-German University
