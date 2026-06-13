@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://github.com/thanh-huynhbao.png" width="222" align="right" />
+<p>
+  <img src="https://github.com/thanh-huynhbao.png" width="222" align="left" />
 </p>
 
 Hi, I'm Huỳnh Bảo Thanh 👋
